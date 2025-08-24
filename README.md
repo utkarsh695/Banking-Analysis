@@ -105,5 +105,5 @@ Strategic Planning: Helps banks allocate resources efficiently, optimize product
 
 Dashboard Preview:
 The Bank Analysis Dashboard provides an interactive view of key financial and operational metrics, including customer deposits, loan disbursements, repayment performance, interest income, and customer satisfaction ratings. Designed in tools such as Power BI/Tableau, the dashboard empowers decision-makers to optimize branch operations, improve loan recovery, strengthen customer engagement, and drive overall profitability.
-Dashboard-![Alt text]()
-Banking Analysis Snapshot Home page-
+Dashboard-![Alt text](https://github.com/utkarsh695/Banking-Analysis/blob/main/Banking.Analysis.png)
+Banking Analysis Snapshot Home page-(https://github.com/utkarsh695/Banking-Analysis/blob/main/Banking.Analysis.png)
